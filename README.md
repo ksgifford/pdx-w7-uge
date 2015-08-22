@@ -1,3 +1,17 @@
+1. Rate today's workshop on a scale of 1-10:
+8 - Teaching was excellent, but while the subject matter is very important, it isn't the most exciting part of development.
+
+
+2. Things from today that I liked:
+Beth was very personable and willing to respond to the needs of the class. She slowed down on topics where we had a lot of questions and moved quickly through items that we picked up easily.
+I also appreciatd the step-by-step nature of the instruction, paired with a good explanation of WHY we were doing it that way.
+
+
+3. Things from today that I would improve:
+It's a bit nitpicky, but less text on each presentation slide would have been nice, along with an easy way (color coding?) to parse which items were commands we were supposed to enter and which items were the text we were supposed to see returned on the terminal. When there is a lot on each slide, this stuff can get lost.
+
+
+
 Unix & Git for Everyone (Portland, August 22, 2015)
 --------------------------------------------------
 
