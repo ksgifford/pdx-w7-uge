@@ -3,7 +3,7 @@
 
 
 2. Things from today that I liked:
-Beth was very personable and willing to respond to the needs of the class. She slowed down on topics where we had a lot of questions and moved quickly through items that we picked up easily.
+Beth was very knowledgeable, personable and willing to respond to the needs of the class. She slowed down on topics where we had a lot of questions and moved quickly through items that we picked up easily. She also did an excellent job of translating complex ideas into plain English.
 I also appreciatd the step-by-step nature of the instruction, paired with a good explanation of WHY we were doing it that way.
 
 
